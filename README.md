@@ -45,12 +45,12 @@ Sebagai seorang data analyst, kita akan mencoba menjawab pertanyaan berikut:
 ## Struktur Proyek
 SaaS-Sales-Analysis/
 │
-├── README.md                               
-├── SaaS-Sales Analysis_Rizan Pradiya.ipynb # Notebook analisis
-├── SaaS_Sales_Raw.csv                  # Dataset mentah
-├── SaaS_Sales_Clean.csv                # Dataset bersih
-├── SaaS_Sales_Discount_Analysis.twbx   # Dashboard Tableau
-└── Capstone_Module2_Presentation.pptx  # Slide presentasi
+├── README.md
+├── SaaS-Sales Analysis_Rizan Pradiya.ipynb   # Notebook analisis
+├── SaaS_Sales_Raw.csv                        # Dataset mentah
+├── SaaS_Sales_Clean.csv                      # Dataset bersih
+├── SaaS_Sales_Discount_Analysis.twbx         # Tableau
+└── Capstone_Module2_Presentation.pptx        # Slide presentasi
 
 ## Kesimpulan
 1. **Kinerja Regional & Subregional**  
